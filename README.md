@@ -1,2 +1,2 @@
 # RTOS-demo
-Demonstracija I2C,SPI i CAN bus komunikacije.
+Demonstracija I2C,SPI i CAN bus komunikacije!
