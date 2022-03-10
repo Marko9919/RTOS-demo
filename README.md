@@ -1,5 +1,9 @@
 # RTOS-demo
 Demonstracija I2C,SPI i CAN bus komunikacije!
+
+Cijeli kod je napisan u Mbed Studio IDE-u u C++ programskom jeziku.
+
+
 ![20220310_132318](https://user-images.githubusercontent.com/61025044/157732274-98171d17-394b-4199-8a40-902caaf829c3.jpg)
 ![20220310_132152](https://user-images.githubusercontent.com/61025044/157732399-04eaeabf-e700-43fb-b366-8c3a51ba5110.jpg)
 ![20220310_132224](https://user-images.githubusercontent.com/61025044/157732439-55f82d81-7d1a-436a-9451-035e513361a7.jpg)
